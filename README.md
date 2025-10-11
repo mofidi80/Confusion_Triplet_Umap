@@ -4,7 +4,9 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <h3 align="center">Classification with Confusion Analysis using UMAP</h3>
-![Alt text](blob/Presentation1.png)
+
+![Alt text](https://github.com/mofidi80/Confusion_Triplet_Umap/blob/cae935ffa01b8da17e8cb437974565a34f24f513/blob/Presentation1.png)
+
   <p align="center">
     A  deep learning project that implements a CNN model for MNIST digit classification, analyzes confusion patterns between classes, and visualizes embeddings using UMAP dimensionality reduction.
     <br />
