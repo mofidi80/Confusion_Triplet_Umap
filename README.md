@@ -77,7 +77,8 @@ This project demonstrates a complete pipeline for:
 + 
   ```console
 pip install torch torchvision pytorch-metric-learning umap-learn numpy matplotlib seaborn scikit-learn
- ```
+  ```
+
 3. Run noteboook.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
