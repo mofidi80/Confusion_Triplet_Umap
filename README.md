@@ -12,7 +12,7 @@
     <br />
   </p>
 </div>
-
+![Alt text](https://github.com/mofidi80/Confusion_Triplet_Umap/blob/360dd26709bc97072f6bfe430a15a36c20901978/blob/Presentation1.png)
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
