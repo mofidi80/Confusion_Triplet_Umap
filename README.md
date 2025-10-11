@@ -75,8 +75,8 @@ This project demonstrates a complete pipeline for:
    + https://jupyter.org/install
 2. Make sure you have all the libraries mentioned in Built With section installed; If not first run your environment then use the following commands:
 + 
-  ```bash
-pip install torch torchvision pytorch-metric-learning umap-learn numpy matplotlib seaborn scikit-learn
+  ```console
+  pip install torch torchvision pytorch-metric-learning umap-learn numpy matplotlib seaborn scikit-learn
   ```
 
 3. Run noteboook.
